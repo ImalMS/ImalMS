@@ -1,6 +1,6 @@
 ![Banner Image](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Imal Menuka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from Sri Lanka</h3>
 ![Alt Text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 
