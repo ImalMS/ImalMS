@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imal Menuka</h1>
 <h3 align="center">A passionate Developer from Sri Lanka</h3>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalms&label=Profile%20views&color=0e75b6&style=flat" alt="imalms" /> </p>
