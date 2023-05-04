@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Imal Menuka</h1>
 <h3 align="center">A passionate Developer from Sri Lanka</h3>
 
