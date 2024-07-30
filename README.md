@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm currently working at **e-RAV Technologies** as a **Intern Software Engineer**
 
-- 🌱 I’m currently learning **React, React Native, Android, Next.js**
+- 💻 I’m currently learning **React, React Native, Android, Next.js**
 
 - 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPT,SQL,KOTLIN,PYTHON**
 
