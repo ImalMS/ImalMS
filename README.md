@@ -13,7 +13,7 @@
 
 - 💻 I’m currently learning **React, React Native, Android, Next.js**
 
-- 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPT,SQL,KOTLIN,PYTHON**
+- 💬 Ask me about **JAVA,HTML,CSS,JAVA SCERIPT,SQL,KOTLIN,PYTHON**
 
 - 📫 How to reach me **imalmenukas210@gmail.com**
 
