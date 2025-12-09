@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/menuka_10" target="blank"><img src="https://img.shields.io/twitter/follow/menuka_10?logo=twitter&style=for-the-badge" alt="menuka_10" /></a> </p>
 
-- 🧑‍💻 I'm currently working at **e-RAV Technologies** as a **Intern Software Engineer**
+- 🧑‍💻 I'm currently working at **e-OLAK Technologies** as a **Intern Software Engineer**
 
 - 💻 I’m currently learning **FLUTTER, React, React Native, Android, Next.js**
 
