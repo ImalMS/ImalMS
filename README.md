@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm currently working at **OLAK Technologies** as a **Intern Software Engineer**
 
-- 💻 I’m currently learning **FLUTTER, React, React Native, Android, Next.js**
+- 💻 I’m currently learning **React, React Native, Java, Springboot, Next.js**
 
 - 💬 Ask me about **JAVA, HTML, CSS, JAVA SCERIPT, TYPE SCERIPT, SQL, PYTHON**
 
