@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi 👋, I'm Imal Menuka</h1>
+<h1 align="center">Hi 👋, I'm Imal Menuka Sandaruwan</h1>
 <h3 align="center">A passionate Front-End Developer from Sri Lanka</h3>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
